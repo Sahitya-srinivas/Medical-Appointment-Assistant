@@ -1,0 +1,17 @@
+{
+    "name": "Managing Medical Appointments",
+    "envVariables": [
+        {
+            "key": "Medical_API",
+            "value": "https://61a4a1ee4c822c0017041d46.mockapi.io/appointment",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "555f6410-41d8-599e-82b8-f45c00fc2f27"
+            ]
+        }
+    ]
+}
